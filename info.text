@@ -1,0 +1,23 @@
+        <svg width="14px" height="60px" class="line line-1">
+            <path d="M2,58 C14,45 14,15 2,2"></path>
+        </svg>
+
+        <svg width="14px" height="60px" class="line line-2">
+            <path d="M2,58 C14,45 14,15 2,2"></path>
+        </svg>
+
+        <svg width="14px" height="60px" class="line line-3">
+            <path d="M2,58 C14,45 14,15 2,2"></path>
+        </svg>
+
+        <svg width="14px" height="60px" class="line line-4">
+            <path d="M12,58 C0,45 0,15 12,2"></path>
+        </svg>
+
+        <svg width="14px" height="60px" class="line line-5">
+            <path d="M12,58 C0,45 0,15 12,2"></path>
+        </svg>
+
+        <svg width="14px" height="60px" class="line line-6">
+            <path d="M12,58 C0,45 0,15 12,2"></path>
+        </svg>
